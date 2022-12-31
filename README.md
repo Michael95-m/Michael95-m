@@ -1,6 +1,6 @@
-<h2 align="center">Hi, Nice to meet you.</h2>
-<h2 align="center">I'm Min Khant.</h2>
+<h2 align="center">I'm <b>Min Khant</b></h2>
 
+<br>
 
 ### I have working experience and interested in
 - Computer Vision
