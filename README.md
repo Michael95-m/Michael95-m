@@ -17,14 +17,12 @@
 
 <br>
 
-#### You can also find me on- 
+#### You can also find me on:
 
 <p>
 <a href="https://www.linkedin.com/in/min-khant-maung-maung-57628a135/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="amazon" width="40" height="40"/> </a>
 </p>
 
 <br>
-
-![Min Khant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael95-m&count_private=true)
 
 
